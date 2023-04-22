@@ -1,0 +1,1 @@
+public enum AchievementsEnum {Ferocious,Killer,Warrior,}

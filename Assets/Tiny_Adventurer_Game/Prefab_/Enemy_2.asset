@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5527f872de4073d41a5e4dbcb1c838f8, type: 3}
+  m_Name: Enemy_2
+  m_EditorClassIdentifier: 
+  nameOfEnemy: Enemy_2
+  discriptionOfEnemy: Buster Enemy
+  enemyPrefab: {fileID: 1112866475172131890, guid: 6b17df89bf3ac03448381ec7f725c180, type: 3}
